@@ -1,9 +1,9 @@
 # Tokyo Ghoul Unity Wallpaper Music Project
 
-## Author 
+## Author
 Samuel Lundquist
 
-Disclaimer: 
+## Disclaimer
 
 Slow startup time is due to loading the music.
 
@@ -11,7 +11,7 @@ I am very sorry for any unsupported or glitchy formats, the background is intend
 
 I do not claim ownership of any of the music/anime art in this project.
 
-7 Songs:
+## Songs
 -Wanderers
 -Unravel Dubstep dj - Jo Remix
 -Seijatachi
