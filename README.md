@@ -12,13 +12,13 @@ I am very sorry for any unsupported or glitchy formats, the background is intend
 I do not claim ownership of any of the music/anime art in this project.
 
 ## Songs
--Wanderers
--Unravel Dubstep dj - Jo Remix
--Seijatachi
--OnMyOwn
--Munou
--Unravel
--Kisetsu
--Glassy Sky
+- Wanderers
+- Unravel Dubstep dj - Jo Remix
+- Seijatachi
+- OnMyOwn
+- Munou
+- Unravel
+- Kisetsu
+- Glassy Sky
 
 HOPE YOU GUYS LIKE IT!!!
