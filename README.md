@@ -15,7 +15,7 @@ I do not claim ownership of any of the music/anime art in this project.
 - Wanderers
 - Unravel Dubstep dj - Jo Remix
 - Seijatachi
-- OnMyOwn
+- On My Own
 - Munou
 - Unravel
 - Kisetsu
